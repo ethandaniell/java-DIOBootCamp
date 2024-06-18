@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "dio.ethan.anatomiaclasses.BoletimEstudantil",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "dio.ethan.anatomiaclasses.MinhaClasse",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "dio.ethan.javadoc.Comentarios",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "dio.ethan.metodos.Usuario",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "Concatenacao",
+            "request": "launch",
+            "mainClass": "dio.ethan.operadores.Concatenacao",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "IncrementarValores",
+            "request": "launch",
+            "mainClass": "dio.ethan.operadores.IncrementarValores",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicogicos",
+            "request": "launch",
+            "mainClass": "dio.ethan.operadores.OperadoresLogicogicos",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "Ternario",
+            "request": "launch",
+            "mainClass": "dio.ethan.operadores.Ternario",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "Unitarios",
+            "request": "launch",
+            "mainClass": "dio.ethan.operadores.Unitarios",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "dio.ethan.terminalargumentos.AboutMe",
+            "projectName": "java_91f4e460",
+            "args": [
+                "ETHAN",
+                "DANIEL",
+                "19",
+                "1.67"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "dio.ethan.tiposevariaveis.TiposVariaveis",
+            "projectName": "java_91f4e460"
+        }
+    ]
+}
