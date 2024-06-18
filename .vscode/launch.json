@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ScannerTeste",
+            "request": "launch",
+            "mainClass": "dio.ethan.terminalargumentos.ScannerTeste",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
