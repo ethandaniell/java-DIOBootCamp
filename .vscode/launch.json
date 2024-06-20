@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio01.SimulacaoBancaria",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
             "name": "CalculadoraDeMedias",
             "request": "launch",
             "mainClass": "dio.ethan.debugging.CalculadoraDeMedias",
