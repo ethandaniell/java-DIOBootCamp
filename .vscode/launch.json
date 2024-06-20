@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraDeMedias",
+            "request": "launch",
+            "mainClass": "dio.ethan.debugging.CalculadoraDeMedias",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
             "name": "ScannerTeste",
             "request": "launch",
             "mainClass": "dio.ethan.terminalargumentos.ScannerTeste",
