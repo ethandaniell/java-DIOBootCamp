@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ControleSimplesDeSaque",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio01.ControleSimplesDeSaque",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio01.VerificacaoChequeEspecial",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorElegibilidadeConta",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio01.VerificadorElegibilidadeConta",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorNumeroConta",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio01.VerificadorNumeroConta",
+            "projectName": "java_91f4e460"
+        },
+        {
+            "type": "java",
             "name": "SimulacaoBancaria",
             "request": "launch",
             "mainClass": "dio.ethan.desafio01.SimulacaoBancaria",
