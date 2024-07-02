@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "CarrinhoDeCompras",
+            "projectName": "java_e425ea93"
+        },
+        {
+            "type": "java",
             "name": "ControleSimplesDeSaque",
             "request": "launch",
             "mainClass": "dio.ethan.desafio01.ControleSimplesDeSaque",
