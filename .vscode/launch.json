@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "dio.ethan.Map.OperacoesBasicas.AgendaContatos",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
             "name": "CarrinhoDeCompras",
             "request": "launch",
             "mainClass": "CarrinhoDeCompras",
