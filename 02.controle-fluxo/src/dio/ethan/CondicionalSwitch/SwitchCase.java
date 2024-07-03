@@ -1,4 +1,4 @@
-package dio.ethan.condicionalswitch;
+package dio.ethan.CondicionalSwitch;
 
 public class SwitchCase {
     public static void main(String[] args) {

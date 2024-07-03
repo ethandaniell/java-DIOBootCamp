@@ -1,4 +1,4 @@
-package dio.ethan.hierarquia;
+package dio.ethan.Hierarquia;
 
 import java.text.NumberFormat;
 import java.text.ParseException;

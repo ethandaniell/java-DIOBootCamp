@@ -1,4 +1,4 @@
-package dio.ethan.enums;
+package dio.ethan.Enums;
 
 // Criando o enum EstadoBrasileiro para ser usado em toda a aplicação.
 public enum EstadoBrasileiro {

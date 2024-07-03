@@ -1,4 +1,4 @@
-package dio.ethan.condicionalencadeada;
+package dio.ethan.CondicionalEncadeada;
 
 public class Ternario {
     public static void main(String[] args) {

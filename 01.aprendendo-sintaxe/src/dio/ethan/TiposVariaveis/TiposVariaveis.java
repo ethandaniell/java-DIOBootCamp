@@ -1,4 +1,4 @@
-package dio.ethan.tiposevariaveis;
+package dio.ethan.TiposVariaveis;
 
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {

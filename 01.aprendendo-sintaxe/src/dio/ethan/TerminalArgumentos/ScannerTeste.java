@@ -1,4 +1,4 @@
-package dio.ethan.terminalargumentos;
+package dio.ethan.TerminalArgumentos;
 
 import java.util.Locale;
 import java.util.Scanner;

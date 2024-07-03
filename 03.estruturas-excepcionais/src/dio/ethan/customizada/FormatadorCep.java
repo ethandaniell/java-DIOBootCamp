@@ -1,4 +1,4 @@
-package dio.ethan.customizada;
+package dio.ethan.Customizada;
 
 public class FormatadorCep {
     public static void main(String[] args) {

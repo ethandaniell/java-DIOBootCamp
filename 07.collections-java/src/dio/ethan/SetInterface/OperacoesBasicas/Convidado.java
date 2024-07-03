@@ -1,3 +1,5 @@
+package dio.ethan.SetInterface.OperacoesBasicas;
+
 public class Convidado {
     //atributos
     private String nome;

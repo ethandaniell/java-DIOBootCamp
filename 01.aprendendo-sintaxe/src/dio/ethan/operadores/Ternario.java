@@ -1,4 +1,4 @@
-package dio.ethan.operadores;
+package dio.ethan.Operadores;
 
 public class Ternario {
 

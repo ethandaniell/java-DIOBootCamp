@@ -1,4 +1,4 @@
-package dio.ethan.terminalargumentos;
+package dio.ethan.TerminalArgumentos;
 
 public class AboutMe {
     public static void main(String[] args) {

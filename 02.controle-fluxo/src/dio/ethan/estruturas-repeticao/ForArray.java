@@ -1,4 +1,4 @@
-package dio.ethan.estruturasrepeticao;
+package dio.ethan.EstruturasRepeticao;
 
 public class ForArray {
     public static void main(String[] args) {

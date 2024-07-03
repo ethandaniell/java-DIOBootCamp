@@ -1,4 +1,4 @@
-package dio.ethan.condicionalsimples;
+package dio.ethan.CondicionalSimples;
 
 public class CaixaEletronico {
     public static void main(String[] args) {

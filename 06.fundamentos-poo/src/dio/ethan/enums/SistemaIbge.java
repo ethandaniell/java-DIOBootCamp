@@ -1,4 +1,4 @@
-package dio.ethan.enums;
+package dio.ethan.Enums;
 
 // qualquer classe do sistema poderá obter os objetos de EstadoBrasileiro
 public class SistemaIbge {

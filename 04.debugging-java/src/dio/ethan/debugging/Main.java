@@ -1,4 +1,4 @@
-package dio.ethan.debugging;
+package dio.ethan.Debugging;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dio.ethan.debugging;
+package dio.ethan.Debugging;
 
 import java.util.Scanner;
 

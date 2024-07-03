@@ -1,4 +1,4 @@
-package dio.ethan.javadoc;
+package dio.ethan.Javadoc;
 
 public class Comentarios {
     public static void main(String[] args) {

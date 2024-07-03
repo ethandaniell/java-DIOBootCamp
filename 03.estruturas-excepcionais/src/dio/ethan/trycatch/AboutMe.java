@@ -1,4 +1,4 @@
-package dio.ethan.trycatch;
+package dio.ethan.TryCatch;
 
 import java.util.InputMismatchException;
 import java.util.Locale;

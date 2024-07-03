@@ -1,4 +1,4 @@
-package dio.ethan.condicionalcomposta;
+package dio.ethan.CondicionalComposta;
 
 public class ResultadoEscolar {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package dio.ethan.estruturasrepeticao;
+package dio.ethan.EstruturasRepeticao;
 
 import java.util.Random;
 

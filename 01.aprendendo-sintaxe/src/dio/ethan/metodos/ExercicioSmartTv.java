@@ -1,4 +1,4 @@
-package dio.ethan.metodos;
+package dio.ethan.Metodos;
 
 public class ExercicioSmartTv {
     boolean ligada = false;

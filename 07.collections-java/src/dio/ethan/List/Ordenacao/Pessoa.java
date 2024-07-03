@@ -1,4 +1,4 @@
-package dio.ethan.List.Ordenacao;
+package dio.ethan.list.Ordenacao;
 
 import java.util.Comparator;
 

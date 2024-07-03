@@ -1,4 +1,4 @@
-package dio.ethan.anatomiaclasses;
+package dio.ethan.AnatomiaClasses;
 
 public class MinhaClasse {
     public static void main (String [] args) {

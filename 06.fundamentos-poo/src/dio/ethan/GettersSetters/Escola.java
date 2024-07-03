@@ -1,4 +1,4 @@
-package dio.ethan.gettersetters;
+package dio.ethan.GettersSetters;
 
 public class Escola {
 	public static void main(String[] args) {
