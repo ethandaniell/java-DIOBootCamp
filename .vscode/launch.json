@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryOperator",
+            "request": "launch",
+            "mainClass": "dio.ethan.FunctionalInterface.Exemplos.BinaryOperator",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
             "name": "AgendaContatos",
             "request": "launch",
             "mainClass": "dio.ethan.Map.OperacoesBasicas.AgendaContatos",
