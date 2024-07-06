@@ -6,6 +6,167 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio19",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio19",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio18",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio18",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio17",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio17",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio16",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio16",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio15",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio15",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio14",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio14",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio13",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio13",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio12",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio12",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio11",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio11",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio10",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio10",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio09",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio09",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio08",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio08",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio07",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio07",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio06",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio06",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio05",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio05",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio04",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio04",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio03",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio03",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "PredicateExemplo",
+            "request": "launch",
+            "mainClass": "dio.ethan.FunctionalInterface.Exemplos.PredicateExemplo",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "SuplierExemplo",
+            "request": "launch",
+            "mainClass": "dio.ethan.FunctionalInterface.Exemplos.SuplierExemplo",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio02",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio02",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "Desafio01",
+            "request": "launch",
+            "mainClass": "dio.ethan.StreamAPI.Desafio01",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "FunctionExemplo",
+            "request": "launch",
+            "mainClass": "dio.ethan.FunctionalInterface.Exemplos.FunctionExemplo",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "ConsumerExemplo",
+            "request": "launch",
+            "mainClass": "dio.ethan.FunctionalInterface.Exemplos.ConsumerExemplo",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
             "name": "BinaryOperator",
             "request": "launch",
             "mainClass": "dio.ethan.FunctionalInterface.Exemplos.BinaryOperator",

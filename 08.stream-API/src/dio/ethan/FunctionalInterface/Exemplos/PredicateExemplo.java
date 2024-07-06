@@ -5,7 +5,7 @@ import java.util.List;
 //import java.util.function.Predicate;
 
 /**
- * Representa uma função que aceita um argumento do tipo T e retorna um valor booleano (verdadeiro oufalso).
+ * Representa uma função que aceita um argumento do tipo T e retorna um valor booleano (verdadeiro ou falso).
  * É comumente usada para filtrar os elementos do Stream com base em alguma condição.
  */
 
