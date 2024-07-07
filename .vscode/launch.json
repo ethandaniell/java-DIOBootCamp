@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio03.BancoDigital.Main",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
             "name": "Desafio19",
             "request": "launch",
             "mainClass": "dio.ethan.StreamAPI.Desafio19",
