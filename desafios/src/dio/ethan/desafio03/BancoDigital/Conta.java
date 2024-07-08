@@ -30,22 +30,23 @@ public abstract class Conta implements IConta{
     @Override
     public void transferir(double valor, IConta contaDestino) {
        System.out.println("Para programar a transferência para amanhã digite 0, para transferir imediatamente digite 1: ");
-       try (Scanner teclado = new Scanner(System.in)) {
+       Scanner teclado = new Scanner(System.in);
         int tipoConta = teclado.nextInt();
 
-           if(saldo <= valor) {
-                System.out.println("Não possui saldo suficiente para completar esta ação");
-           } else if(tipoConta == 0) {
-                sacar(valor);
-                contaDestino.depositar(valor);
-                System.out.println("A transferência de " + valor + " irá acontecer em até 1 dia útil");
-           } else if(tipoConta == 1) {
-                sacar(valor);
-                contaDestino.depositar(valor);
-                System.out.println("A transferência de " + valor + " irá acontecer em instantes");
-           }
-    }
-    }
+        if(saldo <= valor) {
+            System.out.println("Não possui saldo suficiente para completar esta ação");
+        } else if(tipoConta == 0) {
+            sacar(valor);
+            contaDestino.depositar(valor);
+            System.out.println("A transferência de " + valor + " irá acontecer em até 1 dia útil");
+        } else if(tipoConta == 1) {
+            sacar(valor);
+            contaDestino.depositar(valor);
+            System.out.println("A transferência de " + valor + " irá acontecer em instantes");
+        }
+
+        teclado.close();
+    }   
 
     public int getAgencia() {
         return agencia;

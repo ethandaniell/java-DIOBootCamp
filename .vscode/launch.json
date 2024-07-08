@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Desafio",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio03.DesafioDeCodigo.Desafio",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "MainContaBancaria",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio03.DesafioDeCodigo.MainContaBancaria",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "RegistroTransacoesComStream",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio03.DesafioDeCodigo.RegistroTransacoesComStream",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
+            "name": "RegsitroTransacoesBancarias",
+            "request": "launch",
+            "mainClass": "dio.ethan.desafio03.DesafioDeCodigo.RegsitroTransacoesBancarias",
+            "projectName": "java_5c6927a6"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "dio.ethan.desafio03.BancoDigital.Main",
