@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeirosPassosApplication",
+            "request": "launch",
+            "mainClass": "dio.springboot.PrimeirosPassosApplication",
+            "projectName": "primeiros-passos"
+        },
+        {
+            "type": "java",
             "name": "Desafio",
             "request": "launch",
             "mainClass": "dio.ethan.desafio03.DesafioDeCodigo.Desafio",
