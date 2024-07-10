@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WebApiApplication",
+            "request": "launch",
+            "mainClass": "dio.web.api.WebApiApplication",
+            "projectName": "web-API"
+        },
+        {
+            "type": "java",
             "name": "PrimeirosPassosApplication",
             "request": "launch",
             "mainClass": "dio.springboot.PrimeirosPassosApplication",
