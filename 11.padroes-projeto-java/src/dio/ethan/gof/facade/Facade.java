@@ -1,7 +1,7 @@
 package dio.ethan.gof.facade;
 
-import dio.ethan.gof.subsistema1.crm.CrmService;
-import dio.ethan.gof.subsistema2.cep.CepApi;
+import subsistema1.crm.CrmService;
+import subsistema2.cep.CepApi;
 
 public class Facade {
     
