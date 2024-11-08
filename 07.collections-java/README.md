@@ -1,4 +1,4 @@
-# Sete trilha
+# Setima trilha
 
 ## Conceitos estudados:
 - Collections
