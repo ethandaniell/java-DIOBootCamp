@@ -1,4 +1,4 @@
 # Quinta trilha
 
 ## Conceitos estudados:
-- Programação Orientada a Objetos
+- Organização em Programação Orientada a Objetos
